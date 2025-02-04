@@ -1,0 +1,10 @@
+{
+    "description": "Domain for a potential blog",
+    "owner": {
+        "username": "hutianyu2006",
+        "email": "iamcjc@i-am-cjc.tech"
+    },
+    "record": {
+        "CNAME": "cjcblog.pages.dev"
+    }
+}
